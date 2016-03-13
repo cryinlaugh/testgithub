@@ -5,3 +5,5 @@ test
 readme
 i will learn how to use github 
 hahaha
+
+add on command line
